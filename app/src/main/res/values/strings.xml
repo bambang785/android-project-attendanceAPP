@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">LEN</string>
+    <string name="Button1">login</string>
+    <string name="Button2">Signup</string>
+    <string name="skip">Skip</string>
+    <string name="username">Username</string>
+    <string name="uploadimage">Upload Image</string>
+    <string name="nama">Nama</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="ptlen">logo_len</string>
+    <string name="widyatama">widyatama</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="passconf">Password Confirmation</string>
+    <string name="logout">Logout</string>
+    <string name="signup">Sign up</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="explore">Explore</string>
+    <string name="Multiline_Text_By_N">
+        PT Len Industri adalah sebuah BUMN Sub-Klaster Industri\n Pertahanan di bawah koordinasi Kementrian BUMN.
+    </string>
+    <string name="Multiline_Text_By_N1">
+    Universitas Widyatama adalah salah satu Perguruan Tinggi
+    \nSwasta terkemuka yang terletak Kota Bandung, Jawa Barat.    </string>
+    <string name="Multiline_Text_By_N3">
+    LEN (Lembaga Elektroteknika Nasional) berdiri sejak 1965
+\nsebagai lembaga penelitian di bawah LIPI. Pada tahun 1991,
+\nLEN bertransformasi menjadi sebuah Badan Usaha Milik
+\nNegara (BUMN) sebagai entitas bisnis profesional dengan
+\nnama PT Len Industri (Persero). Hingga saat ini, Len Industri
+\nmampu berkembang dan berinovasi untuk terus berada di
+\ngarda depan dalam berbagai sektor usaha di Indonesia.    </string>
+    <string name="Multiline_Text_By_N4">
+    Universitas Widyatama berdiri 2 Agustus 2001 merupakan
+penggabungan Sekolah Tinggi Ilmu Ekonomi Bandung (STIEB),
+Sekolah Tinggi Ilmu Bahasa Bandung (STIBB),
+Sekolah Tinggi Teknologi Bandung (STTB), Sekolah Tinggi
+Disain Komunikasi Visual (STDKV). Upaya penggabungan
+dimaksudkan untuk menghasilkan lulusan yang benar-
+benar memiliki daya saing. Langkah lanjut dilakukan
+Universitas Widyatama adalah upaya  serius dan konsisten
+mewujudkan suatu sistem pelayanan pendidikan dengan
+standard ISO - 9001: 2000.
+
+Widyatama terletak di Cikutra, wilayah Bandung Timur,
+sebuah lokasi strategis yang  mudah dijangkau sarana
+transportasi kota. Kampus yang terkonsentrasi dengan
+berbagai fasilitas  belajar  mengajar  memungkinkan
+universitas  menawarkan  sebuah  lingkungan belajar  yang
+kondusif  dan  bersahabat.   </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="terms">Terms &amp; Conditions</string>
+    <string name="title_activity_item_detail_host">ItemDetailHostActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+
+</resources>

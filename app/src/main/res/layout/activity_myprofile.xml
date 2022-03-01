@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools ="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/myprofile"
+    tools:context=".MyprofileActivity">
+
+
+    <EditText
+        android:id="@+id/user1"
+        android:hint="Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginRight="40dp"
+        android:drawablePadding="5dp"
+
+        android:gravity="start"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:textColor="@color/black"
+        android:textColorHint="#8e9094"
+        android:textCursorDrawable="@null" />
+
+    <EditText
+        android:id="@+id/email1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="320dp"
+        android:layout_marginRight="40dp"
+        android:drawablePadding="5dp"
+        android:gravity="start"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:minHeight="48dp"
+        android:textColorHint="#8e9094"
+        android:textCursorDrawable="@null" />
+
+
+    <EditText
+        android:id="@+id/fname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="390dp"
+        android:layout_marginRight="40dp"
+        android:drawablePadding="5dp"
+        android:gravity="start"
+        android:hint="Date of Birth"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:textColorHint="#8e9094"
+        android:textCursorDrawable="@null" />
+
+    <EditText
+        android:id="@+id/lname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="460dp"
+        android:layout_marginRight="40dp"
+        android:drawablePadding="5dp"
+        android:gravity="start"
+        android:hint="Gender"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:textColorHint="#8e9094"
+        android:textCursorDrawable="@null"
+        tools:ignore="DuplicateClickableBoundsCheck" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="550dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/explore"
+        android:fontFamily="@font/open_sans_semibold"
+        android:text="SAVE"
+        android:textAllCaps="false"
+        android:textColor="#1964C3"
+        android:textColorHint="#1964C3"
+        android:textSize="11sp"
+        tools:ignore="DuplicateSpeakableTextCheck,TouchTargetSizeCheck" />
+
+
+
+
+</RelativeLayout>
